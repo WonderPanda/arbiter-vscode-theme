@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 - WIP
 
+## [0.0.4] - 2018-11-16
+- Added a bit more color pop to plain variables
+
 ## [0.0.3] - 2018-11-16
 - Reduced minimum required vscode engine so users on older versions can still use the theme
 

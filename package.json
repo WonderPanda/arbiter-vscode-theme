@@ -1,0 +1,26 @@
+{
+  "name": "arbiter",
+  "displayName": "Arbiter",
+  "description": "A cool theme",
+  "version": "0.0.1",
+  "publisher": "wonderpanda",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wonderpanda/arbiter-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arbiter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arbiter-color-theme.json"
+      }
+    ]
+  }
+}

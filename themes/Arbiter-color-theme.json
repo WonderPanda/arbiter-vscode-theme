@@ -256,7 +256,7 @@
     "terminal.background": "#171c28",
     "terminal.border": "#171c28",
     "terminal.foreground": "#a2aabc",
-    "terminal.selectionBackground": "#2f3b54",
+    "terminal.selectionBackground": "#8695b770",
     "terminalCursor.background": "#ffcc66",
     "terminalCursor.foreground": "#ffcc66",
     "textBlockQuote.background": "#2f3b54",
@@ -933,6 +933,12 @@
     },
     {
       "scope": "comment.block.documentation.ts",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "keyword.control",
       "settings": {
         "fontStyle": "italic"
       }

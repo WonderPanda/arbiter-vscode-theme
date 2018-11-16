@@ -2,14 +2,14 @@
   "name": "arbiter",
   "displayName": "Arbiter",
   "description": "A cool theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "wonderpanda",
   "repository": {
     "type": "git",
     "url": "https://github.com/wonderpanda/arbiter-vscode-theme"
   },
   "engines": {
-    "vscode": "^1.29.0"
+    "vscode": "^1.24.1"
   },
   "categories": [
     "Themes"
